@@ -44,6 +44,3 @@ Dacă doriți să îmbunătățiți aplicația:
 ## Autor
 **Marinescu Silviu-Andrei** - Facultatea de Electronică, Telecomunicații și Tehnologia Informației, Universitatea Națională de Știință și Tehnologie Politehnica București
 
-## Licență
-Acest proiect este distribuit sub licența MIT.
-
